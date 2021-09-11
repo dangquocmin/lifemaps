@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: rgb(236, 236, 244);
+}
+.MuiPaper-root {
+  background-color: white;
+}
+
+.MuiBox-root {
+  padding: 150px !important;
+}
+
+.react-transform-wrapper {
+  width: 100% !important;
+}
+
+.react-toast-notifications__toast__icon-wrapper {
+  width: 50px !important;
+  padding-top: 18px !important;
+}
+
+.react-transform-component {
+  margin: 0 auto;
+}

@@ -1,0 +1,51 @@
+{
+  "actions": {
+    "add": "Add",
+    "new": "New",
+    "edit": "Edit",
+    "update": "Update",
+    "delete": "Delete",
+    "cancel": "Cancel",
+    "move": "Move",
+    "ok": "OK",
+    "submit": "Submit",
+    "view": "View",
+    "select": "Select",
+    "back": "Back"
+  },
+  "refer_people": {
+    "placeholder": "Reference people",
+    "add_new_with_name": "Add new reference people with name: {{name}}",
+    "add_form": {
+      "title": "Add new reference people",
+      "description": "Add new reference people",
+      "success": "Add new reference people successfully!",
+      "error": "Add new reference people failed, please try again."
+    },
+    "edit_form": {
+      "title": "Edit reference people",
+      "description": "Edit reference people",
+      "success": "Update reference people successfully!",
+      "error": "Update reference people failed, please try again."
+    },
+    "form_fields": {
+      "name": "Name",
+      "phone": "Phone",
+      "address": "Address",
+      "email": "Email",
+      "birthday": "Birthday",
+      "note": "Note",
+      "avatar": "Avatar",
+      "website": "Website",
+      "facebook": "Facebook",
+      "twitter": "Twitter",
+      "position": "Position",
+      "sex": "Sex",
+      "sex_value": {
+        "male": "Male",
+        "female": "Female",
+        "other": "Other"
+      }
+    }
+  }
+}
